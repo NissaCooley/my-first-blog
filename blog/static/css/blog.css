@@ -7,19 +7,21 @@
     color: #808080;
     font-size: 36pt;
     text-decoration: none;
+    padding: 150px;
 }
 
 .content {
-    margin-left: 40px;
+    margin-left: 100px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Orbitron', cursive;
+    font-family: 'Orbitron', bold;
 }
 
 .date {
     float: right;
     color: #808080;
+    font-family:Jura;
 }
 
 .save {
